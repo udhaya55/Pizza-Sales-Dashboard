@@ -2,6 +2,8 @@
 
 ## Table of Content
 
+1. (#overview)
+
 ## Overview 
 
 I'm eager to share my dashboards for pizza sales! These visualizations provide a glimpse into data-driven decision-making, ranging from order insights to comprehensive revenue breakdowns.
