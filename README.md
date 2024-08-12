@@ -51,3 +51,10 @@ This gives the reports more depth and provides insightful information on profita
 
 ## Insights from Analysis
 
+- Total Orders - 21.35K
+- Total Pizza Sold - 21.70K
+- Pizza Sold at Peek Hours - 23
+- Pizza Sold at Peek Day - Friday 
+- Best Selling Pizza - Big Meat Pizza
+- Worst Selling Pizza - Barbecue Chicken Pizza 
+- Total Revenue - 356.72K
