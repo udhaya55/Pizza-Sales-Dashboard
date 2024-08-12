@@ -3,12 +3,15 @@
 ## Table of Content
 
 1. [Overview](#overview)
+2. [Dependencies](#Dependencies)
+3. [Analysis](#Analysis)
+4. [Insights from Analysis](#Insights from Analysis)
 
 ## Overview 
 
 I'm eager to share my dashboards for pizza sales! These visualizations provide a glimpse into data-driven decision-making, ranging from order insights to comprehensive revenue breakdowns.
 
-## Dependencies
+## Dependencies 
 
 - Excel 
 - PowerBI
