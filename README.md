@@ -43,7 +43,7 @@ Obtain thorough revenue data for every pizza, keeping track of components, sold 
 ![image](https://github.com/user-attachments/assets/575932db-0868-4a00-9861-37fb202a0051)
 
 
-### Tip to maximize profit section 
+### Additional Analysis section 
 
 This gives the reports more depth and provides insightful information on profitable tips. I created engaging and interactive tooltips to improve the dashboard's appearance.
 
